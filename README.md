@@ -107,4 +107,4 @@ $result = mysqli_query($conn, $sql);
 
 HASILNYA:
 
-![gambar](
+![gambar](https://github.com/andreanbadeh/Lab8Web/blob/88479cb326ab01d2d1cec0df07ffbf4b99538c9b/image/Screenshot%20from%202025-11-19%2015-04-35.png)
