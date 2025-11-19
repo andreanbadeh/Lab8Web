@@ -7,7 +7,9 @@ KELAS : TI.24.A.4
 
 # Membuat Database
 
-```CREATE DATABASE latihan1;```
+```
+CREATE DATABASE latihan1;
+```
 # Membuat Tabel
 ```
 CREATE TABLE data_barang (
