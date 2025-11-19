@@ -180,7 +180,7 @@ if (isset($_POST['submit'])) {
 
 HASILNYA:
 
-![gambar](https://github.com/andreanbadeh/Lab8Web/blob/fd73e578f0e1ba16c07431f204757d6251c4eb76/image/Screenshot%20from%202025-11-19%2015-08-13.png)
+![gambar](https://github.com/andreanbadeh/Lab8Web/blob/c9d8456b1409b6a7619bdad23200396c5b4508c1/image/Screenshot%20from%202025-11-19%2015-19-43.png)
 
 # Mengubah Data (Update) ubah.php
 ```
