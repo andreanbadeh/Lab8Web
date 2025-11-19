@@ -1,1 +1,7 @@
-# Lab8Web
+# Praktikum 8: PHP dan Database MySQL
+NAMA : ANDREAN PUTRA ARYA
+
+NIM : 312410341
+
+KELAS : TI.24.A.4
+
