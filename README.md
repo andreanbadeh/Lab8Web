@@ -22,3 +22,5 @@ CREATE TABLE data_barang (
  stok int(4)
 );
 ```
+# Menampilkan Tabel Di terminal
+![gambar](https://github.com/andreanbadeh/Lab8Web/blob/5909785a87915a34b44d5d9e41fc91659c272e17/image/Screenshot%20from%202025-11-19%2014-44-24.png)
