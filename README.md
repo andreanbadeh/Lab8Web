@@ -268,4 +268,19 @@ if (isset($_POST['submit'])) {
 ```
 HASILNYA:
 
-![gambar](https://github.com/andreanbadeh/Lab8Web/blob/dc23d066f7e5eb8260bc4904553162d29e7e0ac5/image/Screenshot%20from%202025-11-19%2015-10-53.png)
+![gambar](https://github.com/andreanbadeh/Lab8Web/blob/150a014f815f84ac3dc16d9831bbd1ee792085a3/image/Screenshot%20from%202025-11-19%2015-18-09.png)
+
+# Menghapus Data (Delete) hapus.php
+```
+<?php
+include 'koneksi.php';
+
+$id = $_GET['id'];
+mysqli_query($conn, "DELETE FROM data_barang WHERE id_barang='$id'");
+
+header("Location: index.php");
+?>
+```
+HASILNYA:
+
+![gambar](
