@@ -107,7 +107,7 @@ $result = mysqli_query($conn, $sql);
 
 HASILNYA:
 
-![gambar](https://github.com/andreanbadeh/Lab8Web/blob/88479cb326ab01d2d1cec0df07ffbf4b99538c9b/image/Screenshot%20from%202025-11-19%2015-04-35.png)
+![gambar](https://github.com/andreanbadeh/Lab8Web/blob/5b219aacd31f446dd7eb1b7315b23cc15abfcff7/image/Screenshot%20from%202025-11-19%2015-16-45.png)
 
 # Menambah Data (Create) tambah.php
 ```
