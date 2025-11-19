@@ -25,7 +25,7 @@ CREATE TABLE data_barang (
 # Menampilkan Tabel Di terminal
 ![gambar](https://github.com/andreanbadeh/Lab8Web/blob/5909785a87915a34b44d5d9e41fc91659c272e17/image/Screenshot%20from%202025-11-19%2014-44-24.png)
 
-# Membuat file koneksi database
+# Membuat file koneksi database koneksi.php
 ```
 <?php
 $host = "localhost";
@@ -43,3 +43,5 @@ if (!$conn) {
 HASILNYA:
 
 ![gambar](https://github.com/andreanbadeh/Lab8Web/blob/80515fa92c0379f3c15bed668cf706c89898eb53/image/Screenshot%20from%202025-11-19%2014-55-15.png)
+
+# Membuat file index untuk menampilkan data (Read) index.php
