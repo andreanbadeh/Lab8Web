@@ -281,6 +281,6 @@ mysqli_query($conn, "DELETE FROM data_barang WHERE id_barang='$id'");
 header("Location: index.php");
 ?>
 ```
-HASILNYA:
+HASILNYA
 
-![gambar](
+![gambar](https://github.com/andreanbadeh/Lab8Web/blob/eb841c29b0f7c4b02d74de06a439f619a564f08c/image/Screenshot%20from%202025-11-19%2015-21-52.png)
