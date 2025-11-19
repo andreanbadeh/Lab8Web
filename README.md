@@ -177,3 +177,7 @@ if (isset($_POST['submit'])) {
 </body>
 </html>
 ```
+
+HASILNYA:
+
+![gambar](https://github.com/andreanbadeh/Lab8Web/blob/fd73e578f0e1ba16c07431f204757d6251c4eb76/image/Screenshot%20from%202025-11-19%2015-08-13.png)
