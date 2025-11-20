@@ -25,6 +25,10 @@ CREATE TABLE data_barang (
 # Menampilkan Tabel Di terminal
 ![gambar](https://github.com/andreanbadeh/Lab8Web/blob/5909785a87915a34b44d5d9e41fc91659c272e17/image/Screenshot%20from%202025-11-19%2014-44-24.png)
 
+# Bagian Phpmyadmin
+
+![gambar](https://github.com/andreanbadeh/Lab8Web/blob/b965274c1e1a07bf5e8bf5b358b51ff9fa407326/image/Screenshot%20from%202025-11-20%2012-35-35.png)
+
 # Membuat file koneksi database koneksi.php
 ```
 <?php
