@@ -288,3 +288,78 @@ HASILNYA:
 HASIL TERAKHIR:
 
 ![gambar](https://github.com/andreanbadeh/Lab8Web/blob/526e1e563ebec8436daa893fe941e7720994365b/image/Screenshot%20from%202025-11-19%2015-21-57.png)
+
+# Konfigurasi dengan style.css
+CODE:
+```
+body {
+    font-family: Arial, sans-serif;
+    background: #eef1f5;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.btn {
+    background: #1e88ff;
+    color: white;
+    padding: 8px 12px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 15px;
+    border-radius: 6px;
+}
+
+.btn:hover {
+    background: #0f6cd1;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background: #1e88ff;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+    background: #f4f8ff;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+.thumb {
+    width: 80px;
+    border-radius: 5px;
+}
+```
