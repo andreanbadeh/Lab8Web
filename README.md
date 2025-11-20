@@ -291,7 +291,7 @@ HASILNYA:
 
 HASIL TERAKHIR:
 
-![gambar](https://github.com/andreanbadeh/Lab8Web/blob/526e1e563ebec8436daa893fe941e7720994365b/image/Screenshot%20from%202025-11-19%2015-21-57.png)
+![gambar](https://github.com/andreanbadeh/Lab8Web/blob/3b7a3dd82abb8f5baf3a06af945cef52959a1aec/image/Screenshot%20from%202025-11-20%2015-31-59.png)
 
 # Konfigurasi dengan style.css
 CODE:
