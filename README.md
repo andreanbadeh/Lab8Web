@@ -23,7 +23,7 @@ CREATE TABLE data_barang (
 );
 ```
 # Menampilkan Tabel Di terminal
-![gambar](https://github.com/andreanbadeh/Lab8Web/blob/5909785a87915a34b44d5d9e41fc91659c272e17/image/Screenshot%20from%202025-11-19%2014-44-24.png)
+![gambar](https://github.com/andreanbadeh/Lab8Web/blob/f4d883fd1dafb3ed5c0591d364250d5a7ec30edf/image/Screenshot%20from%202025-11-21%2009-21-49.png)
 
 # Bagian Phpmyadmin
 
